@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film &amp; Acara TV</string>
+    <string name="movie">FILM</string>
+    <string name="tvshow">ACARA TV</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="description">Deskripsi</string>
+    <string name="rating">Rating</string>
+    <string name="language_preference">Pilihan Bahasa</string>
+    <string name="language">Bahasa</string>
+    <string name="fetch_error">Gagal: MENGAMBIL DATA</string>
+</resources>
